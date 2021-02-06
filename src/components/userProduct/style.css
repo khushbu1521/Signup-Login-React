@@ -1,0 +1,14 @@
+.product-holder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 560px;
+    width: 100%;   
+    margin: 0 auto;
+    margin-top: 45px;
+}
+
+.btn-margin {
+    margin-top: 15px!important;
+    margin-left: 10px !important;
+}
